@@ -2,7 +2,7 @@
 #include <stdio.h>
 void APrint()
 {
-	printf("YA\n");
+	printf("ZA\n");
 }
 
 
